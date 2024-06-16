@@ -10,7 +10,7 @@ Sentiment analysis of electric vehicle (EV) reviews in India using various natur
 
 * NLTK: Natural Language Toolkit for text processing tasks.
 
-#ALGORITHM USED
+# ALGORITHM USED
 
 Machine Learning:
 
